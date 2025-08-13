@@ -3,7 +3,7 @@
 I'm a passionate developer from Croatia 🇭🇷 with a love for building innovative solutions across the full stack. From crafting robust back-end systems to designing intuitive Android apps and diving into deep learning, I thrive on turning ideas into reality. Welcome to my GitHub, where I share my projects and explore new technologies!
 
 ## 🚀 About Me  
-- 💻 **Full-Stack Developer** with expertise in back-end, front-end, Android development, and deep learning.  
+- 💻 **Full-Stack Developer** with expertise in Spring Boot, Angular, Android development, and deep learning.  
 - 🌍 Based in **Croatia**, bringing a global perspective to problem-solving.  
 - 🔍 Always learning and experimenting with new tools and frameworks.  
 - 🎯 Passionate about creating efficient, scalable, and user-friendly applications.  
