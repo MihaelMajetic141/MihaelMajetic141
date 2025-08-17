@@ -12,10 +12,10 @@ I'm a passionate developer from Croatia 🇭🇷 with a love for building innova
 
 ### Back-End  
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>  
 
 ### Android  
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a> 
+<a href="https://developer.android.com/compose" target="_blank" rel="noreferrer"><img src="https://logo.svgcdn.com/d/jetpackcompose-original.png" alt="Jetpack Compose" width="40" height="40"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>  
 
 ### Front-End  
@@ -41,8 +41,8 @@ I'm a passionate developer from Croatia 🇭🇷 with a love for building innova
 
 ## 🌟 What I'm Working On  
 - Building back-end apps with **Spring Boot**.  
-- Developing Android apps using **Kotlin**, **Jetpack Compose** and **Firebase**.  
+- Developing Android apps using **Kotlin**, **Jetpack Compose** and **Firebase**.
 - Exploring **deep learning** models with **PyTorch** and **TensorFlow**.  
-- Experimenting with containerized deployments using **Docker**.  
+
 
 Feel free to check out my repositories, contribute, or reach out for collaboration! 🚀
