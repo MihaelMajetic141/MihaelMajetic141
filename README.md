@@ -4,7 +4,7 @@ I'm a passionate developer from Croatia 🇭🇷 with a love for building innova
 
 ## 🚀 About Me  
 - 💻 **Full-Stack Developer** with expertise in Spring Boot, Angular, Android development and deep learning.  
-- 🌍 Based in **Croatia**, bringing a global perspective to problem-solving.  
+- 🌍 Based in **Croatia**.
 - 🔍 Always learning and experimenting with new tools and frameworks.  
 - 🎯 Passionate about creating efficient, scalable, and user-friendly applications.  
 
