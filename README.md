@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Mihael!  
 
-I'm a passionate developer from Croatia 🇭🇷 with a love for building innovative solutions across the full stack. From crafting robust back-end systems to designing intuitive Android apps and diving into deep learning, I thrive on turning ideas into reality. Welcome to my GitHub, where I share my projects and explore new technologies!
+I'm a software developer from Croatia focused on building innovative solutions across the full stack. From crafting robust back-end applications to designing intuitive Android and Angular apps, I thrive on turning ideas into reality. Welcome to my GitHub, where I share my projects and explore new technologies!
 
 ## 🚀 About Me  
-- 💻 **Full-Stack Developer** with expertise in Spring Boot, Angular, Android development and deep learning.  
+- 💻 **Full-Stack Developer** with expertise in Spring Boot, Angular and Android development.  
 - 🌍 Based in **Croatia**.
-- 🔍 Always learning and experimenting with new tools and frameworks.  
 - 🎯 Passionate about creating efficient, scalable, and user-friendly applications.  
 
 ## 🛠️ Tech Stack  
@@ -37,12 +36,7 @@ I'm a passionate developer from Croatia 🇭🇷 with a love for building innova
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>  
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/mihael-majeti%C4%87-531a972b5/)  
-
-## 🌟 What I'm Working On  
-- Building back-end apps with **Spring Boot**.  
-- Developing Android apps using **Kotlin**, **Jetpack Compose** and **Firebase**.
-- Exploring **deep learning** models with **PyTorch** and **TensorFlow**.  
-
+- [LinkedIn](https://www.linkedin.com/in/mihael-majeti%C4%87-531a972b5/)
+  
 
 Feel free to check out my repositories, contribute, or reach out for collaboration! 🚀
