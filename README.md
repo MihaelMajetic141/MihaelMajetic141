@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mihael!  
+# Hi, I'm Mihael!  
 
 I'm a software developer from Croatia focused on building innovative solutions across the full stack. From crafting robust back-end applications to designing intuitive Android and Angular apps, I thrive on turning ideas into reality. Welcome to my GitHub, where I share my projects and explore new technologies!
 
